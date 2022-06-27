@@ -2555,6 +2555,7 @@ input, select, textarea {
 
 	.work-item {
 		margin: 0 0 2em 0;
+		border: 1px solid black;
 	}
 
 		.work-item .image {
@@ -2704,6 +2705,11 @@ input, select, textarea {
 			}
 
 
+#hello {
+	font-size: 1.5em;
+	font-weight: 800;
+	color: rgb(2, 2, 82);
+}
 
 .skills {
 	display: flex;
